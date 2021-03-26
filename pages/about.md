@@ -37,5 +37,5 @@ bb几句记录生活
 
 - [留言板](chat.html)
 
-- Email&nbsp;: [forsocial@qq.com](http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=YBQNAQkaBSAREU4DDw0)
+- Email&nbsp;: [forsocial@qq.com](http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=YBQNAQkaBSAREU4DDw0) <a target="_blank" href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=hOLr9vfr5_3l6MT19arn6_k" style="text-decoration:none;">给我写信</a>
 
