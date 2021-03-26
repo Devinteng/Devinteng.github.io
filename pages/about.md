@@ -20,7 +20,6 @@ bb几句记录生活
 
 - Email&nbsp;: <a target="_blank" href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=hOLr9vfr5_3l6MT19arn6_k" style="text-decoration:none;">forsocial@qq.com</a>
 
-## <a href="{{ site.baseurl }}/static/xml/rss.xml">RSS订阅</a>
 
 ## 历史
 - 2019.06.04 购入域名 dxh.xyz 
