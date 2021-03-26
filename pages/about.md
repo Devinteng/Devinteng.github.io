@@ -3,9 +3,19 @@ layout: mypost
 title: 关于我
 ---
 
-> Hello 陌生人，欢迎访问 TMaize Blog
+> 我从闹市来，到此觅空谷  
 
-该博客托管于 GitHub Page，国内默认解析到腾讯云，以保证国内外的访问速度。留言页面使用腾讯的“吐个槽”，另外使用的腾讯的 MTA 分析工具统计访问量
+<!-- music -->
+<iframe src="//music.163.com/outchain/player?type=2&id=1491585&auto=0&height=66" frameborder="0" width="100%" height="86px" > </iframe>
+##### ME
+90后  
+普通人  
+渴望暴富        
+bb几句记录生活   
+##### 历史
+• 2019.05.23 购入域名 dxh.xyz 
+
+
 
 主题是自己写的，见[tmaize-blog](https://github.com/TMaize/tmaize-blog)，喜欢的话可以给个小星星。另外欢迎添加友链，在[留言板](chat.html)留言即可
 
@@ -25,8 +35,7 @@ title: 关于我
 
 ## 联系我
 
-- QQ&nbsp;&nbsp;&nbsp;&nbsp;: 1772314831
+- [留言板](chat.html)
 
-- Email&nbsp;: [tmaize@qq.com](http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=YBQNAQkaBSAREU4DDw0)
+- Email&nbsp;: [forsocial@qq.com](http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=YBQNAQkaBSAREU4DDw0)
 
-- GitHub: [https://github.com/tmaize](https://github.com/tmaize)
