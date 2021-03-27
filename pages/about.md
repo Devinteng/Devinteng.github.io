@@ -6,7 +6,6 @@ title: 关于我
 > 我从闹市来，到此觅空谷  
 
  <br/>
-![me2](/static/img/me2.jpg)
  
 ## ME
 90后  
