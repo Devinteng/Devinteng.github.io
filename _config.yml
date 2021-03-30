@@ -5,7 +5,7 @@ title: DXH's Blog
 description: DXH的个人博客
 keywords: DXH,Blog
 author: DXH
-footerText: '© 2019-2021 DXH. All Rights Reserved.'
+footerText: 'Copyright © 2019-2021 DXH. All Rights Reserved.'
 
 # 这些不要动
 permalink: /posts/:year/:month/:day/:title.html
