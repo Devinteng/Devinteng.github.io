@@ -3,7 +3,7 @@ layout: mypost
 title: 关于我
 ---
 
-> 我从闹市来，到此觅空谷  
+> 逃离喧嚣  
 
  <br/>
  
